@@ -6,7 +6,7 @@ Author: "УПМ 2"
 Tags: [java, android, oop, mobile-dev, laboratory-work]
 ---
 
-# 📋 ПРАКТИЧЕСКОЕ ЗАДАНИЕ №3 @flemixyt: "Проектирование и настройка AndroidManifest.xml"
+# 📋 ПРАКТИЧЕСКАЯ РАБОТА №3 @flemixyt: "Проектирование и настройка AndroidManifest.xml"
 ---
 ---
 > [!NOTE]
